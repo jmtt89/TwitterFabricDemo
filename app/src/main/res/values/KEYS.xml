@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="twitter_key" translatable="false">...</string>
+    <string name="twitter_secret" translatable="false">...</string>
+    <string name="twitter_fabric_key" translatable="false">...</string>
+</resources>
