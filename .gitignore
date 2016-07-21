@@ -9,3 +9,4 @@
 KEYS.xml
 .idea/vcs.xml
 app/libs/
+src/main/res/values/twitter.xml
